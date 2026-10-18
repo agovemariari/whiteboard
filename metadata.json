@@ -1,0 +1,6 @@
+{
+  "name": "PenBoard - 低遅延手書きホワイトボード",
+  "description": "Windows PCとXPPenペンタブレット向けの一人用・低遅延・高精度手書きホワイトボード。ブラウザー内保存とJSON/PNG書き出しに対応。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
